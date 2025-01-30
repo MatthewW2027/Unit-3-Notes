@@ -1,4 +1,10 @@
-.col {
+/* OVERRIDE  a Bootstrap CLASS */
+.row {
+    max-height: 20rem; 
     overflow: hidden; 
-    height: 10rem; 
+}
+
+.text-bg-success {
+    color: purple !important; 
+    
 }
